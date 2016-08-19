@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: gray;
+}
+header {
+  height: 70px;
+  width: 80%;
+  background-color: black;
+  margin-left: 10%;
+}
+.container {
+  height: 80%;
+  width: 500px;
+  color: white;
+  position: relative;
+  margin-left: 25%;
+}
+footer {
+  height: 40px;
+  width: 100%;
+  position: absolute;
+  color: black;
+  bottom: 0;
+}
