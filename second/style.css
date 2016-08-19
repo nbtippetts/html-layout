@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  background-color: gray;
+  position: relative;
+}
+.left {
+  height: 100%;
+  width: 32%;
+  background-color: pink;
+  position: absolute;
+  float: left;
+}
+.right {
+  height: 100%;
+  width: 32%;
+  background-color: pink;
+  position: relative;
+  float: right;
+}
+.box {
+  height: 120px;
+  width: 336px;
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
